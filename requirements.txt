@@ -1,1 +1,3 @@
-
+#Lists Python packages needed for the backend.
+Flask
+flask-cors
